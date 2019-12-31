@@ -1,0 +1,9 @@
+Package: com.burritoz.audiomessagebegone
+Name: AudioMessageBeGone
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
